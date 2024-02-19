@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/balloon_animation"
+    android:oneshot="true">
+
+    <item android:drawable="@drawable/balloon1" android:duration="100"/>
+    <item android:drawable="@drawable/balloon2" android:duration="100"/>
+    <item android:drawable="@drawable/balloon3" android:duration="100"/>
+    <item android:drawable="@drawable/balloon4" android:duration="100"/>
+    <item android:drawable="@drawable/balloon5" android:duration="100"/>
+    <item android:drawable="@drawable/balloon6" android:duration="100"/>
+    <item android:drawable="@drawable/balloon7" android:duration="100"/>
+    <item android:drawable="@drawable/balloon8" android:duration="100"/>
+    <item android:drawable="@drawable/balloon9" android:duration="100"/>
+    <item android:drawable="@drawable/balloon10" android:duration="100"/>
+
+</animation-list>
